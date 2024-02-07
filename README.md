@@ -3,7 +3,7 @@
 
 # Como rodar
 ```bash
-#Instalação do Composer:
+#Instalação das dependências:
     composer install
 #Se necessário configuração do Ambiente:
     php artisan key:generate
