@@ -1,6 +1,14 @@
 # CadastroCorretor
  Cadastro de Corretores. Aplicação feita utilizando HTML, CSS, JS & PHP (junto do framework Laravel).
 
+# Necessário
+
+```bash
+PHP 8
+Laravel 9.x
+MySQL
+
+```
 # Como rodar
 ```bash
 #Instalação das dependências:
